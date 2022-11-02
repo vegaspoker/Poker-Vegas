@@ -46,8 +46,50 @@ In Hold'em, as in many poker formats, the actions available are fold, check, bet
 
 #### Pré-Flop <a href="#undefined" id="undefined"></a>
 
-\
+After seeing their hole cards, each player now has the option of playing their hand by calling or raising from the big blind. The action begins to the left of the big blind, which is considered a 'live' bet for this round. That player has the option to fold, call or raise. For example, if the big blind is $2, the cost to call is $2, and at least $4 to raise. The action proceeds clockwise around the table.
+
+{% hint style="danger" %}
+**Note:** The betting structure varies according to the different variations of the game. Explanations of the betting in Limit Hold'em, No Limit Hold'em and Pot Limit Hold'em can be found below. Betting continues in each betting round until all active players (who have not folded) have placed equal bets in the pot.
+{% endhint %}
+
+#### The Flop
+
+When the betting is over on the flop, the turn is flipped open on the board. The turn is the fourth community card in Hold'em (and is sometimes called 'Fourth Street'). Another round of betting begins, starting with the active player immediately to the left of the button.
+
+#### The River
+
+When the betting is over on the turn, the river (or Fifth Street) is turned open on the board. The river is the fifth and final community card in a Hold'em game. The betting action begins with the active player immediately to the left of the button, and the same betting rules as on the flop and turn (explained above) apply.
+
+#### Showdown
+
+If there is more than one player remaining when the final round of betting is complete, the last person to bet or raise shows his cards, unless there are no bets in the final round. In that case, the player immediately to the left of the button shows his cards first. The player with the best five-card poker hand wins the pot. In the case of identical hands, the pot will be equally divided between the players with the best hands. Hold'em rules state that all suits are equal.
+
+After the pot is awarded to the winners, a new hand of Hold'em is ready to be played. The button now moves clockwise to another player, the blinds and antes are re-raised, and new hands are dealt to each player.
+
+#### Limit, No Limit, Pot Limit e Mixed Texas Hold'em
+
+**The rules of Hold'em remain the same for Limit, Pot Limit, and No Limit games, with a few exceptions:**
+
+* **Limit Texas Hold'em -** Limit bets are structured, pre-determined amounts. On the pre-flop and flop, all bets and raises are the same size as the big blind. On the turn and river, the size of all bets and raises are doubled. In Limit Hold'em, up to four bets are allowed per player during each betting round. This includes the (1) bet, (2) raise, (3) re-raise, and the (4) cap (final raise).
+*   **No Limit Texas Hold'em -** The minimum bet in No Limit Hold'em is equal to the size of the big blind, but players can always bet as much as they wish, up to their total chips.\
 
 
+    **Minimum raise:** In No Limit Hold'em games, the raise amount must be at least that of the previous bet or raise in the same round. As an example, if one player is the first to act and bets $5, then the second player must raise at least $5 (total bet of $10).\
+    **Maximum raise:** The size of your stack (your chips at the table).
+*   **Pot Limit Texas Hold'em -** The minimum bet in Pot Limit Hold'em is equal to the size of the big blind, but players can always bet up to the size of the pot.\
 
+
+    **Minimum raise:** The raise amount must be at least that of the previous bet or raise in the same round. As an example, if one player is the first to act and bets $5, then the second player must give a raise of at least $5 (total bet of $10).
+
+    **Maximum Raise:** The size of the pot, which is defined by the total of the active pot, plus all the bets on the table, plus the amount the active player must to call before the raise.
+
+**For Example:**\
+****If the pot size is $100, and there is no previous action on that particular betting round, a player may bet a maximum of $100. After that bet, the action goes to the next player, clockwise. The player may fold, pay $100, or raise to any amount between the minimum (put up another $100) or the maximum. The maximum bet in this case is $400 - the raising player must first call $100, increasing the pot to $200, and then raise another $200, making a total of $400.
+
+{% hint style="success" %}
+In Pot Limit Hold'em games, there is no maximum value on the number of raises allowed.
+{% endhint %}
+
+* **Mixed Texas Hold'em**\
+  No Mixed Hold'em, o jogo muda entre rodadas de Limit Hold'em e No Limit Hold'em. Os blinds geralmente são aumentados quando o jogo muda de No Limit para Limit, para assegurar a consistência do tamanho do pote médio em cada jogo. As regras de aposta em cada rodada seguem as regras para cada jogo, como descritas acima.
 
