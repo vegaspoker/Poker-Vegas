@@ -10,8 +10,6 @@
   * [▪ Omaha Hi-lo](overview/play2earn/omaha-hi-lo.md)
   * [▪ 5- Card Draw](overview/play2earn/5-card-draw.md)
 * [♥ Security](overview/security.md)
-* [♣ Agility](overview/agility.md)
-* [♦ Decentralized](overview/decentralized.md)
 * [🔝 How to invest and Play?](overview/how-to-invest-and-play.md)
 * [🔜 Marketplace NFT](overview/marketplace-nft.md)
 * [🪙 Tokenomics](overview/tokenomics.md)

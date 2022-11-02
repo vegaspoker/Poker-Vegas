@@ -41,3 +41,17 @@ Over the years, this is a technology that is increasingly being addressed in ord
 {% hint style="success" %}
 At **PokerVegas,** we will soon adopt the possibility for our investors to play and interact with their opponents all in the metaverse, through our own room, with several possibilities of actions in it...
 {% endhint %}
+
+#### Decentralized
+
+{% hint style="success" %}
+Personal Privacy and freedom from big corporate control in the digital ageis our priority.
+{% endhint %}
+
+**Agility**
+
+{% hint style="success" %}
+One of the main advantages offered by the Poker Vegas network is faster, near-zero cost transactions. You can send tokens to anyone anywhere.
+{% endhint %}
+
+\
