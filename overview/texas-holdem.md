@@ -5,38 +5,49 @@ coverY: 0
 
 # ▪ Texas Hold'em
 
-## The Beginning
+## Texas Hold’em <a href="#undefined" id="undefined"></a>
 
-&#x20;When playing texas hold'em poker, each player is dealt two cards face down - called their hand (hole cards). Then there is a betting round where you can Fold, Bet, or Fold. This stage of the game is known as pre-flop, and what you should do depends on your hand cards, or your starting hand.
+Driven by the popularity of televised poker, Texas Hold'em (aka 'Hold'em') has become the most popular poker game in the world, whether in casinos or online at PokerVegas. We'll go into more detail below, but here are the key points you need to know:
 
-When all bets have closed, three shared cards are dealt face up in the middle of the table. This is called the **flop.**
+* Each player receives two cards, for his eyes only
+* The dealer deals five cards - three at a time, then another, then another - that can be used by all players to make the best possible five-card hand
+* Before and after each card is revealed, players take turns betting. To stay in the hand and see the next card, all players must have placed the same amount of chips in the pot as each other
+* The best poker hand wins the pot
 
-<figure><img src="../.gitbook/assets/FLOP.JPG" alt=""><figcaption><p><strong>FLOP</strong></p></figcaption></figure>
+**It is a simple game to learn, but has the potential to be played with a seemingly endless variety of strategies, tactics, and nuances.**
 
-## During the game&#x20;
+## The rules of Texas Hold'em
 
-Then there is another round of betting when a fourth shared card - called the **turn** - is dealt.
+Before you start playing Hold'em you need to learn the rules. In Hold'em, each player is dealt two cards of his own, called hole cards, which belong to him alone. Five community cards are dealt face-up to form the "board. All players in the game use these shared community cards together with their hole cards to form their best possible five-card poker hand. In Hold'em, a player can use any combination of seven cards available to make the best possible five-card poker hand, using none, one or two of his hole cards.
 
-<figure><img src="../.gitbook/assets/tURN.JPG" alt=""><figcaption><p><strong>TURN</strong></p></figcaption></figure>
+#### _The four major variations of Hold'em are differentiated from each other by their betting limits:_
 
-Then there is another round of betting, and then a final shared card - called the **river** - and a final round of betting.
+* Limit Texas Hold'em: There is a predetermined bet limit on each betting round.
+* No Limit Texas Hold'em: A player can bet any amount, up to his total chips.
+* Pot Limit Texas Hold'em: A joiner can bet any amount, up to the size of the pot.
+* Mixed Texas Hold'em: The game switches between rounds of Limit Texas Hold'em and No Limit Texas Hold'em.
 
-<figure><img src="../.gitbook/assets/RIVER.JPG" alt=""><figcaption><p><strong>RIVER</strong></p></figcaption></figure>
+#### Blinds
 
-Your best Texas Holdem hands will be made using your hand cards and the five shared cards in between to make the best possible 5-card poker hand.
+In Hold'em, a marker called the "button" or "dealer button" indicates which player is the designated dealer for the current hand. Before the hand begins, the player immediately to the left of the button posts the small blind, the first mandatory bet. The player immediately to the left of the small blind posts the big blind, which is usually twice the size of the small blind, but the blinds can vary depending on the stakes and the betting structure in play.
 
-**What are the best hands in Texas Holdem poker?**
+In Limit games, each big blind is the smallest bet, and the small blind is usually half the size of the big blind, but can be larger depending on amounts.
 
-You can go to the poker hand rankings page for more information.
+**For example:**&#x20;
 
-For example, if you have 9-9 and the shared cards are 9-9-A-5-2 you have four repeats. If the shared cards were J-Q-K-7-2 you would have only two nines
+* [x] In a $2/$4 Limit game, the small blind is $1 and the big blind is $2. In a $15/$30 Limit game, the small blind is $10 and the big blind is $15.
+* [x] In Pot Limit and No Limit games, the games are denominated by the size of the blinds (for example, a $1 / $2 Hold'em game has a $1 small blind and a $2 big blind).
+* [x] Depending on the structure of the game, each player may also have to put an "ante" (another type of forced bet, usually lower than the blinds, placed by all players at the table) into the pot.
+* [x] Now each player receives his or her own cards. The action happens clockwise around the table, starting with the player 'under the gun' (immediately to the left of the big blind).
 
-Sometimes the best hand in texas hold em is made up of the five shared cards themselves. If they were 10-10-10-10-A and you had 9-9, your hand would not be worth as much as the four highest-value repeats displayed on the table
+#### Player Bet Options
 
-## Game Ending&#x20;
+In Hold'em, as in many poker formats, the actions available are fold, check, bet, call or raise. The options available depend on the action taken by previous players. If no one has yet placed a bet, then a player may either check (pass without betting, but holding their cards) or bet (bet). If a player has bet, subsequent players can fold, call or raise. To call means to match the amount that the previous player has bet. To raise means not only to match the previous bet, but to increase it.
 
-There are two ways to end a round.
+#### Pré-Flop <a href="#undefined" id="undefined"></a>
 
-One is when the players in a round open their hand cards and the player with the best hand wins. This is known as the showdown.
+\
 
-The other is when someone bets enough so that everyone else passes. This is how most rounds end in Texas Hold'em and that's the magic of the game - you don't always need the best hand to win.
+
+
+
