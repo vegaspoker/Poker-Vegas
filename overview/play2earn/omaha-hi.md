@@ -45,6 +45,20 @@ Omaha poker games are ranked according to the standard poker hand rankings. Thes
 * **3 of a Kind** - Any 2 cards + 3 cards of the same rank
 * **2 Pairs** -  Any card + a pair of cards of the same rank + another pair of cards of the same rank
 * **A Pair -**  Any 3 cards + any 2 cards of the same rank
-* **A High Card -**  the highest-value card in your 5-card hand\
+* **A High Card -**  the highest-value card in your 5-card hand
 
+#### Variation of the Game
 
+Omaha poker is available in multiple variations. These include Fixed Limit Omaha, No Limit Omaha, and Pot Limit Omaha. Let’s briefly look at each of these variants:
+
+#### Fixed Limit Omaha
+
+has predetermined betting. During the pre-flop session and post-flop, all bets and raises are equal to the big blind. Once the fourth and fifth community cards are dealt, all bets and raises will double.
+
+#### No Limit Omaha
+
+games require that the minimum bet is equal to the big blind. Players can increase their bets as much as they want, provided they have the chips. The minimum raise must match the bet in the same round and the maximum raise is the value of your chip stack. Unlimited raises are possible in NL Omaha.
+
+#### Pot Limit Omaha (PLO)
+
+requires a minimum bet equal to the big blind. The minimum raise must match the previous bet or raise during the round. The maximum raise is the size of the pot. There is no limit on the number of raises permitted in pot limit Omaha.\
