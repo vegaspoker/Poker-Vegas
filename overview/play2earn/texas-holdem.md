@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/CAPA POKER.png
+cover: ../../.gitbook/assets/CAPA POKER.png
 coverY: 0
 ---
 
@@ -48,7 +48,7 @@ In Hold'em, as in many poker formats, the actions available are fold, check, bet
 
 After seeing their hole cards, each player now has the option of playing their hand by calling or raising from the big blind. The action begins to the left of the big blind, which is considered a 'live' bet for this round. That player has the option to fold, call or raise. For example, if the big blind is $2, the cost to call is $2, and at least $4 to raise. The action proceeds clockwise around the table.
 
-{% hint style="danger" %}
+{% hint style="success" %}
 **Note:** The betting structure varies according to the different variations of the game. Explanations of the betting in Limit Hold'em, No Limit Hold'em and Pot Limit Hold'em can be found below. Betting continues in each betting round until all active players (who have not folded) have placed equal bets in the pot.
 {% endhint %}
 
