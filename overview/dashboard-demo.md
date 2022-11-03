@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/CAPA POKER.png
-coverY: 0
+cover: ../.gitbook/assets/fv.jpg
+coverY: 165.82995951417004
 ---
 
 # ⏳ Dashboard (DEMO)

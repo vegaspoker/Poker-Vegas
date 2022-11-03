@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/CAPA POKER.png
-coverY: 0
+cover: ../.gitbook/assets/fv.jpg
+coverY: 84.21052631578948
 ---
 
 # 🔝 How to invest and Play?

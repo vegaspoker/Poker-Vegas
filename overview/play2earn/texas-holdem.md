@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/CAPA POKER.png
-coverY: 0
+cover: ../../.gitbook/assets/fv.jpg
+coverY: 282.42914979757086
 ---
 
 # ▪ Texas Hold'em

@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/CAPA POKER.png
-coverY: 0
+cover: ../.gitbook/assets/fv.jpg
+coverY: 176.19433198380568
 ---
 
 # 🗨 Access our social networks

@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/CAPA POKER.png
-coverY: 0
+cover: ../../.gitbook/assets/fv.jpg
+coverY: 81.61943319838056
 ---
 
 # ▪ Omaha Hi

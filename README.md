@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/CAPA POKER.png
-coverY: 0
+cover: .gitbook/assets/fv.jpg
+coverY: 204.69635627530366
 ---
 
 # 🃏 PokerVegas

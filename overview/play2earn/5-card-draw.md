@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/CAPA POKER.png
-coverY: 0
+cover: ../../.gitbook/assets/fv.jpg
+coverY: 171.01214574898785
 ---
 
 # ▪ 5- Card Draw
