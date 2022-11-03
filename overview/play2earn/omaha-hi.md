@@ -13,13 +13,13 @@ Back in the day, players were dealt 5 hole cards, not 4. Omaha was known as Twic
 
 Now, Omaha has several names tacked on such as Omaha Hi-Lo, Omaha Hi/Lo, or 8 or Better. By 1982, Vegas casinos were showcasing this game in grand style. It is second only to Texas Hold’em as one of the legendary [poker games](https://us.888poker.com/games/). The game is especially exciting, as each player is dealt many more cards to form strong hands with. This means that it’s more common to make royal flushes, 4 of a kind, and other powerful hands. In case you’re wondering, the rules of play for Omaha and Texas Hold’em are similar. Two notable differences include the way you compile winning hands, and the number of hole cards you are dealt.
 
-#### Rules for Playing Omaha Hi
+#### Rules for Playing Omaha&#x20;
 
 Omaha poker rules are nearly identical to those of Texas Hold’em poker. The main differences come from the number of hole cards you are dealt – 4 instead of 2, and how you compile your winning hands. However, the are several other notable differences and we will get to them next.
 
 In Omaha poker, each player receives 4 hole cards face down. Only that player can use his/her hole cards. Next, 5 community cards are dealt into the middle of the table for all players to use. In Omaha, you are required to use precisely 2 of your 4 hole cards and 3 of the 5 community cards to form your best hand. Omaha poker games are typically played in one of two formats: a limit format, or a pot limit format. Usually, players enjoy Omaha 8 or better, and Omaha hi.
 
-#### Playing Omaha- Hi
+#### Playing Omaha
 
 With both no limit Omaha games and pot limit Omaha games, the sizes of the blinds routinely describe the types of games being played. For example, $2/$4 Omaha has a small blind of $2 and a big blind of $4. The betting starts with the player sitting to the left of the big blind (BB). If you are playing fixed limit Omaha poker, the small bet and big blind are identical, and the small blind is usually half the size of the big blind. Once the blinds have been posted, each player receives 4 down cards. The betting begins clockwise around the table, starting with the player to the left of the big blind.
 
