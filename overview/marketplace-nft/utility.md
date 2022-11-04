@@ -52,6 +52,6 @@ You can staking NFT using a wallet, a specific physical device, or by using the 
 
 #### Stake NFT's PokerVegas
 
-We at PokerVegas will be using the method of staking by providers, in which we will offer dedicated services to users of NFT's stake. The return on this form of stake is characterized by the transaction fees of the $POKER token, where 1% of the purchase fee will be reverted to our stake.
+We at PokerVegas will be using the method of staking by providers, in which we will offer dedicated services to users of NFT's stake. The return on this form of stake is characterized by the transaction fees of the $POKER token, where 1% of the Sale fee will be reverted to our stake.
 
 \
