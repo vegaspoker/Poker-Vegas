@@ -5,9 +5,15 @@ coverY: 204.69635627530366
 
 # 🃏 PokerVegas
 
-## The market tendency
+#### Growth of the online poker industry&#x20;
 
-Poker can currently be considered one of the most practiced games in the world. around the world. Although much research has concluded that there is clear evidence of the existence of the skill factor in the game of poker, there still hangs over still hovers over the poker universe an atmosphere laden with prejudice due to a lack of information. In many countries or regions where legislation forbids the so-called legislation prohibits so-called "games of chance", studies are needed to clarify doubts in relation to the characteristics of the games that involve betting, classifying them into categories of games that depend games that depend exclusively on luck or games where the skill factor can influence the outcome. can influence the outcome. Poker is considered a democratic game because it allows anyone to play it. can practice it, however, players who stand out and obtain positive results with regularity, use specific skills and knowledge regularly, use specific skills and knowledge such as: mathematics statistics, observation skills, memorization, logical reasoning, patience psychology, and sports sense.
+In 2020, many industries related to online delivery and digital entertainment experienced rapid growth, including online poker. The traffic of people playing online poker in southern Europe doubled in a matter of weeks. As live events around the world ceased, players sought alternatives online - some looking for alternatives to the casino, others trying poker for the first time for fun. In the months that followed, figures put the overall growth of the industry at about 30 percent.
+
+This mini boom in online poker had a cascading effect on the industry. Regular tournament fields became larger, which also resulted in higher prize pools for the winners. Additional online series filled the poker calendar, and the world's biggest live events - such as the WSOP and EPT - took place online for the first time in history.
+
+Naturally, this boom will diminish to some extent as the world returns to its live activities. Interestingly, however, the recent growth of the industry has involved a large number of beginning players, which has seen an increase of up to 255% (according to research firm Global Poker). Player retention will be key for operators in the industry to maintain a solid level of growth.
+
+Projections from The Business Research Center show optimistic forecasts. The online poker industry was worth about $58.96 billion in 2019, and is expected to reach about $92.8 billion by 2023, representing a 12% growth rate.
 
 {% hint style="success" %}
 **Poker Vegas** is a Crypto token asset that will be used as a Poker coin on the platform. The platform seeks to increase the interactivity between cryptocurrency and online poker.
