@@ -65,4 +65,6 @@ Personal Privacy and freedom from big corporate control in the digital ageis our
 One of the main advantages offered by the Poker Vegas network is faster, near-zero cost transactions. You can send tokens to anyone anywhere.
 {% endhint %}
 
+{% embed url="https://youtu.be/KTLoNlIhK6g" %}
+
 \
