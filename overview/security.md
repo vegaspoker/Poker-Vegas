@@ -9,6 +9,6 @@ Poker Vegas offers more reliability compared to any other blockchainbased crypto
 
 {% embed url="https://www.bscscan.com/token/0xbd19d58adaac6121cddb1414f733b135f1afa52c" %}
 
+{% embed url="https://github.com/solidproof/projects/tree/main/Poker%20Vegas" %}
 
-
-#### AUDIT, KYC & SAFU - Comming soon ...
+####
