@@ -9,7 +9,7 @@ Presale Address: **0xbd19D58ADaAC6121cDDb1414F733B135f1afA52c** \
 Token Name: **POKER VEGAS**\
 ****Token Symbol: **POKER** \
 Total Supply: **80,000,000 POKER** \
-Soft Cap: **150 BNB**\
+Soft Cap: **250 BNB**\
 Presale Start Time: **2022.11.15 13:00 (UTC)**\
 Presale End Time: **2022.11.17 15:00 (UTC)**\
 
