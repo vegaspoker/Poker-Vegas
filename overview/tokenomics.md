@@ -5,24 +5,26 @@ coverY: 169.7165991902834
 
 # 🪙 Tokenomics
 
-Presale Address: **0xbd19D58ADaAC6121cDDb1414F733B135f1afA52c**\
+Presale Address: **0xbd19D58ADaAC6121cDDb1414F733B135f1afA52c** \
 Token Name: **POKER VEGAS**\
 ****Token Symbol: **POKER** \
 Total Supply: **80,000,000 POKER** \
-Soft Cap: **100 BNB**\
-Presale Start Time: **2022.11.09 13:00 (UTC)**\
-Presale End Time: **2022.11.11 13:00 (UTC)**\
+Soft Cap: **150 BNB**\
+Presale Start Time: **2022.11.15 13:00 (UTC)**\
+Presale End Time: **2022.11.17 15:00 (UTC)**\
 
 
-|         Tokenomics        |    %    |
-| :-----------------------: | :-----: |
-|  IDO/Listing Pancakeswap  | **33%** |
-|      Poker Ecosystem      | **20%** |
-|        Listing CEX        | **15%** |
-| Rakeback Poker (Rewards)  | **15%** |
-|    Advisor/Partnerships   | **07%** |
-|       Devs platform       | **05%** |
-|            Team           | **05%** |
+|         Tokenomics        |       %       |
+| :-----------------------: | :-----------: |
+|         Liquidity         |   **9,69%**   |
+|          Presale          |    **21%**    |
+|      Poker Ecosystem      |    **20%**    |
+|        Listing CEX        |    **15%**    |
+| Rakeback Poker (Rewards)  |    **15%**    |
+|    Advisor/Partnerships   | **7,526568%** |
+|    Development platform   |    **05%**    |
+|            Team           |    **05%**    |
+|           Burnt           | **1,783432%** |
 
 #### &#x20;Selling tax allocation
 
