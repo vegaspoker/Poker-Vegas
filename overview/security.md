@@ -11,4 +11,8 @@ Poker Vegas offers more reliability compared to any other blockchainbased crypto
 
 {% embed url="https://github.com/solidproof/projects/tree/main/Poker%20Vegas" %}
 
+{% embed url="https://blocksafu.com/project-detail/0x634c4585624a68C9b148E4eF1Ae6cFa6646d50B3" %}
+
+
+
 ####
