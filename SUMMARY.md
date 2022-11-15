@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🃏 PokerVegas](README.md)
-* [💲 Pinksale - Fairlaunch](https://www.pinksale.finance/launchpad/0x6C90F9F7408D9c4Eb45d13c98eb514dfF6855167?chain=BSC)
+* [💲 Pinksale - Fairlaunch](https://www.pinksale.finance/launchpad/0x8031a212611B9feD7E91804A5Ce789c983a04d6e?chain=BSC)
 
 ## Overview
 
